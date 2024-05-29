@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fan Li (李璠) - Homepage"
-description              : "Ph.D Candidate in School of Computer Science and Engineering,University of New South Wales"
+title                    : "Fan Li (李璠)"
+description              : "Ph.D Candidate in School of Computer Science and Engineering, University of New South Wales"
 repository               : "Coco-Hut/Coco-Hut.github.io"
 google_scholar_stats_use_cdn : true
 
