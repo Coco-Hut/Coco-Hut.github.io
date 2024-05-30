@@ -49,9 +49,11 @@ I have published more than 100 papers at the top international AI conferences wi
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-- **Fan Li**, Zhiyu Xu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *AdaRisk: Risk-adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection.* **IEEE Transactions on Knowledge and Engineering (TKDE)**, 2024 [[pdf]()] [[code](https://github.com/Coco-Hut/AdaRisk-TKDE)]
+- **Fan Li**, Zhiyu Xu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *AdaRisk: Risk-adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024 [[pdf]()] [[code](https://github.com/Coco-Hut/AdaRisk-TKDE)]
  
 - **Fan Li**, Xiaoyang Wang<sup>\*</sup>, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *Hypergraph Self-supervised Learning with Sampling-efficient Signals.* **International Joint Conference on Artificial  Intelligence (IJCAI)**, 2024 [[pdf](https://arxiv.org/pdf/2404.11825)] [[code](https://github.com/Coco-Hut/SE-HSSL)]
+
+- Jiacheng Ma, **Fan Li**, Dawei Cheng<sup>\*</sup> et al. *Fighting against Organized Fraudsters Using Risk Diffusion-based Parallel Graph Neural Network.* **International Joint Conference on Artificial  Intelligence (IJCAI)**, 2023 [[pdf](https://www.ijcai.org/proceedings/2023/0681.pdf)]
 
 # 🎖 Honors and Awards
 - University International Postgraduate Award (UIPA) granted by University of New South Wales - 2024
