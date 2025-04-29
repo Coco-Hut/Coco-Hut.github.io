@@ -26,6 +26,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2025.4*: &nbsp;🎉🎉 one paper was accepted by IJCAI 2025 
 - *2024.11*: &nbsp;🎉🎉 one paper was accepted by ICDE 2025 
 - *2024.05*: &nbsp;🎉🎉 one paper was accepted by TKDE 2024 
 - *2024.04*: &nbsp;🎉🎉 one paper was accepted by IJCAI 2024
@@ -50,7 +51,9 @@ I have published more than 100 papers at the top international AI conferences wi
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-- **Fan Li**, Xiaoyang Wang<sup>\*</sup>, Dawei Cheng, Ying Zhang, and Xuemin Lin. *Efficient Dynamic Attributed Graph Generation* **IEEE Interational Conference on Data Engineering (ICDE)**, 2025 [[pdf]()] [[code](https://github.com/Coco-Hut/VRDAG)]
+- **Fan Li**, Guoxuan Wang, Huiyu Chu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *PCAN: A Pandemic-Compatible Attentive Neural Network for Retail Sales Forecasting* **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025 [[pdf]()] [[code](https://github.com/Coco-Hut/PCAN)]
+
+- **Fan Li**, Xiaoyang Wang<sup>\*</sup>, Dawei Cheng, Ying Zhang, and Xuemin Lin. *Efficient Dynamic Attributed Graph Generation* **IEEE Interational Conference on Data Engineering (ICDE)**, 2025 [[pdf](https://arxiv.org/abs/2412.08810)] [[code](https://github.com/Coco-Hut/VRDAG)]
 
 - **Fan Li**, Zhiyu Xu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *AdaRisk: Risk-adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024 [[pdf](https://ieeexplore.ieee.org/document/10549866/footnotes#footnotes)] [[code](https://github.com/Coco-Hut/AdaRisk-TKDE)]
  
