@@ -29,21 +29,19 @@ layout: compress
 
     {% include scripts.html %}
 
-  <!-- 地图和底部 -->
-  <div style="text-align: center; margin-bottom: 40px;">
     <div id="clustrmaps-container" style="
       width: 250px;
       height: 150px;
-      margin: 30 auto;
+      margin: 40px auto 40px auto; /* 上40px间隔，下40px距离底部 */
       background: white;
       box-shadow: 0 2px 8px rgba(0,0,0,0.15);
       border-radius: 8px;
+      text-align: center;
     ">
       <script type="text/javascript" id="clustrmaps"
         src="//clustrmaps.com/map_v2.js?d=AqjM1ol5G2VAOzN5uDr7CqWYDmZ4xGgzEkLYVanZXQc&cl=ffffff&w=a">
       </script>
     </div>
-  </div>
 
   </body>
 </html>
