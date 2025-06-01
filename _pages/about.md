@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D candidate in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales (UNSW). I am now under the joint supervision of Dr. [Xiaoyang Wang](https://scholar.google.com/citations?hl=zh-CN&user=TwbvM1oAAAAJ) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) (ARC Future Fellow). My research interest includes Graph Data Mining, Hypergraph Learning, and Data-centric AI. 
+I am currently a Ph.D candidate in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales (UNSW). I am now under the joint supervision of Dr. [Xiaoyang Wang](https://scholar.google.com/citations?hl=zh-CN&user=TwbvM1oAAAAJ) and Prof. [Xuemin Lin](https://itf.sjtu.edu.cn/enshow-275-42.html). My research interest includes Graph Mining, Hypergraph Learning, and Data-centric AI. 
 
 Prior to that, I obtained my bachelor degree in Data Science and Big Data Technology from Tongji University, China, in 2023. I was a research intern at Fintech Lab in Tongji University, supervised by Prof. [Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/).
 
@@ -62,9 +62,14 @@ I have published more than 100 papers at the top international AI conferences wi
 - Jiacheng Ma, **Fan Li**, Dawei Cheng<sup>\*</sup> et al. *Fighting against Organized Fraudsters Using Risk Diffusion-based Parallel Graph Neural Network.* **International Joint Conference on Artificial  Intelligence (IJCAI)**, 2023 [[pdf](https://www.ijcai.org/proceedings/2023/0681.pdf)]
 
 # 🎖 Honors and Awards
+- IEEE ICDE 2025 Student Travel Grant (Only 10 recipients worldwide)
 - University International Postgraduate Award (UIPA) granted by University of New South Wales - 2024
- 
-# 📖 Educations
+
+# 📖 Acedemic Services
+
+- Conference Reviewer: WWW2025, KDD2025
+
+# 🎓 Educations
 - *2023.09 - now*, Ph.D Candidate, University of New South Wales, Sydney. 
 - *2019.09 - 2023.06*, Undergraduate, Tongji Univeristy, Shanghai.
 
