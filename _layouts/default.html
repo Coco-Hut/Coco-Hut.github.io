@@ -29,14 +29,20 @@ layout: compress
 
     {% include scripts.html %}
 
+    <!-- 横杠分隔线 -->
+  <hr style="
+    width: 100px;
+    margin: 60px auto 30px auto;
+    border: none;
+    border-top: 2px solid #ccc;
+  ">
+
+  <!-- 地图和底部 -->
+  <div style="text-align: center; margin-bottom: 40px;">
     <div id="clustrmaps-container" style="
       width: 250px;
       height: 150px;
-      position: relative;
-      bottom: 20px;
-      left: 50%;
-      transform: translateX(-50%);
-      z-index: 1000;
+      margin: 0 auto;
       background: white;
       box-shadow: 0 2px 8px rgba(0,0,0,0.15);
       border-radius: 8px;
@@ -45,6 +51,7 @@ layout: compress
         src="//clustrmaps.com/map_v2.js?d=AqjM1ol5G2VAOzN5uDr7CqWYDmZ4xGgzEkLYVanZXQc&cl=ffffff&w=a">
       </script>
     </div>
+  </div>
 
   </body>
 </html>
