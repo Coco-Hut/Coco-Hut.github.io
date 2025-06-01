@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D candidate in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales (UNSW). I am now under the joint supervision of Dr. [Xiaoyang Wang](https://scholar.google.com/citations?hl=zh-CN&user=TwbvM1oAAAAJ) and Prof. [Xuemin Lin](https://itf.sjtu.edu.cn/enshow-275-42.html). My research interest includes Graph Mining, Hypergraph Learning, and Data-centric AI. 
+I am currently a Ph.D candidate in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales (UNSW). I am now under the joint supervision of Dr. [Xiaoyang Wang](https://research.unsw.edu.au/people/dr-xiaoyang-wang) and Prof. [Xuemin Lin](https://itf.sjtu.edu.cn/enshow-275-42.html). My research interest includes Graph Mining, Hypergraph Learning, and Data-centric AI. 
 
 Prior to that, I obtained my bachelor degree in Data Science and Big Data Technology from Tongji University, China, in 2023. I was a research intern at Fintech Lab in Tongji University, supervised by Prof. [Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/).
 
@@ -65,7 +65,7 @@ I have published more than 100 papers at the top international AI conferences wi
 - IEEE ICDE 2025 Student Travel Grant (Only 10 recipients worldwide)
 - University International Postgraduate Award (UIPA) granted by University of New South Wales - 2024
 
-# 📖 Acedemic Services
+# 📖 Academic Services
 
 - Conference Reviewer: WWW2025, KDD2025
 
