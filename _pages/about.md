@@ -73,8 +73,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - *2023.09 - now*, Ph.D Candidate, University of New South Wales, Sydney. 
 - *2019.09 - 2023.06*, Undergraduate, Tongji Univeristy, Shanghai.
 
----
-
 <!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
