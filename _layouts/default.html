@@ -28,17 +28,23 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-  <div id="clustrmaps-container" style="
-  width: 300px;
+
+<div id="clustrmaps-container" style="
+  width: 250px;
   height: 150px;
-  margin: 0 auto;
-  position: relative;
-  bottom: 50px;
-  text-align: center;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  border-radius: 8px;
 ">
   <script type="text/javascript" id="clustrmaps"
     src="//clustrmaps.com/map_v2.js?d=AqjM1ol5G2VAOzN5uDr7CqWYDmZ4xGgzEkLYVanZXQc&cl=ffffff&w=a">
   </script>
 </div>
+
   </body>
 </html>
