@@ -71,7 +71,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🎓 Educations
 - *2023.09 - now*, Ph.D Candidate, University of New South Wales, Sydney. 
-- *2019.09 - 2023.06*, Undergraduate, Tongji Univeristy, Shanghai.
+- *2019.09 - 2023.06*, Undergraduate, Tongji University, Shanghai.
 
 <!--
 # 💬 Invited Talks
