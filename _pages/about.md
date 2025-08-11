@@ -67,6 +67,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 - Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/pdf/2508.03104)] [[code]()]
 
+- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **arXiv preprint**, 2024 [[pdf](https://arxiv.org/pdf/2410.06480)] [[code]()]
+
+
 # 🎖 Honors and Awards
 - IEEE ICDE 2025 Student Travel Grant (Only 10 recipients worldwide)
 - University International Postgraduate Award (UIPA) granted by University of New South Wales - 2024
