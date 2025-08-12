@@ -65,9 +65,12 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📄 Preprints
 
+- Zian Zhai, **Fan Li**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
+
 - Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/pdf/2508.03104)] [[code]()]
 
 - **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **arXiv preprint**, 2024 [[pdf](https://arxiv.org/pdf/2410.06480)] [[code]()]
+
 
 
 # 🎖 Honors and Awards
