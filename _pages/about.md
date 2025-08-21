@@ -75,7 +75,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 🔬 Open Source Projects
 
-- [DHG-Bench](https://github.com/Coco-Hut/DHG-Bench)  [![GitHub stars](https://img.shields.io/github/stars/yourname/DHG-Bench?style=social)](https://github.com/Coco-Hut/DHG-Bench) : The first benchmark toolkit for deep hypergraph learning, supporting evaluation of various Hypergraph neural networks (HNNs) in effectiveness, efficiency, robustness, and fairness across diverse datasets and tasks.
+- [DHG-Bench](https://github.com/Coco-Hut/DHG-Bench)  [![GitHub stars](https://img.shields.io/github/stars/Coco-Hut/DHG-Bench?style=social)](https://github.com/Coco-Hut/DHG-Bench) : The first benchmark toolkit for deep hypergraph learning, supporting evaluation of various Hypergraph neural networks (HNNs) in effectiveness, efficiency, robustness, and fairness across diverse datasets and tasks.
 
   *Role: Project Leader & Organizer*  
 
