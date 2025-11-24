@@ -26,6 +26,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 one paper was accepted by TKDE 2025 
 - *2025.8*: &nbsp;🎉🎉 one paper was accepted by CIKM 2025 
 - *2025.4*: &nbsp;🎉🎉 one paper was accepted by IJCAI 2025 
 - *2024.11*: &nbsp;🎉🎉 one paper was accepted by ICDE 2025 
@@ -51,6 +52,9 @@ I have published more than 100 papers at the top international AI conferences wi
 <!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
+
+- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2025 [[pdf](https://arxiv.org/pdf/2410.06480)] [[code](https://github.com/Coco-Hut/TCGU)]
+
 - Xijuan Liu, Yin Chen, **Fan Li**, Xiaoyang Wang, Haiyang Hu and Ying Zhang *Subgraph Similarity Computation via Masked Graph Distance Network.* **International Conference on Information and Knowledge Management (CIKM)**, 2025 [[pdf]()] [[code]()]
 
 - **Fan Li**, Guoxuan Wang, Huiyu Chu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *PCAN: A Pandemic-Compatible Attentive Neural Network for Retail Sales Forecasting.* **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025 [[pdf]()] [[code](https://github.com/Coco-Hut/PCAN)]
@@ -71,8 +75,6 @@ I have published more than 100 papers at the top international AI conferences wi
 
 - Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/pdf/2508.03104)] [[code]()]
 
-- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **arXiv preprint**, 2024 [[pdf](https://arxiv.org/pdf/2410.06480)] [[code](https://github.com/Coco-Hut/TCGU)]
-
 # 🔬 Open Source Projects
 
 - [DHG-Bench](https://github.com/Coco-Hut/DHG-Bench)  [![GitHub stars](https://img.shields.io/github/stars/Coco-Hut/DHG-Bench?style=social)](https://github.com/Coco-Hut/DHG-Bench) : The first benchmark toolkit for deep hypergraph learning, supporting evaluation of various Hypergraph neural networks (HNNs) in effectiveness, efficiency, robustness, and fairness across diverse datasets and tasks.
@@ -86,7 +88,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📖 Academic Services
 
 - Program Committee: AAAI2026
-- Conference Reviewer: WWW2025, KDD2025
+- Conference Reviewer: WWW2025, KDD2025, ICLR2026
 
 # 🎓 Educations
 - *2023.09 - now*, Ph.D Candidate, University of New South Wales, Sydney. 
