@@ -69,7 +69,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📄 Preprints
 
-- **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark on Deep Hypergraph Learning.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/abs/2508.12244)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
+- **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/abs/2508.12244)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
 
 - Zian Zhai, **Fan Li**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
 
