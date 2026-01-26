@@ -26,6 +26,7 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2026.1*: &nbsp;🎉🎉 one paper was accepted by ICLR 2026 
 - *2025.11*: &nbsp;🎉🎉 one paper was accepted by TKDE 2025 
 - *2025.8*: &nbsp;🎉🎉 one paper was accepted by CIKM 2025 
 - *2025.4*: &nbsp;🎉🎉 one paper was accepted by IJCAI 2025 
