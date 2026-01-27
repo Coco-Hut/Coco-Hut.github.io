@@ -54,6 +54,8 @@ I have published more than 100 papers at the top international AI conferences wi
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
+- **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **International Conference on Learning Representation (ICLR)**, 2026 [[pdf](https://arxiv.org/abs/2508.12244)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
+
 - **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2025 [[pdf](https://arxiv.org/pdf/2410.06480)] [[code](https://github.com/Coco-Hut/TCGU)]
 
 - Xijuan Liu, Yin Chen, **Fan Li**, Xiaoyang Wang, Haiyang Hu and Ying Zhang *Subgraph Similarity Computation via Masked Graph Distance Network.* **International Conference on Information and Knowledge Management (CIKM)**, 2025 [[pdf]()] [[code]()]
@@ -69,8 +71,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - Jiacheng Ma, **Fan Li**, Dawei Cheng<sup>\*</sup> et al. *Fighting against Organized Fraudsters Using Risk Diffusion-based Parallel Graph Neural Network.* **International Joint Conference on Artificial  Intelligence (IJCAI)**, 2023 [[pdf](https://www.ijcai.org/proceedings/2023/0681.pdf)]
 
 # 📄 Preprints
-
-- **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/abs/2508.12244)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
 
 - Zian Zhai, **Fan Li**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
 
