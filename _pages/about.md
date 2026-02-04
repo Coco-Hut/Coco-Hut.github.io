@@ -89,7 +89,7 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📖 Academic Services
 
 - Program Committee: AAAI2026
-- Conference Reviewer: WWW2025, KDD2025, ICLR2026
+- Conference Reviewer: WWW2025, KDD2025, ICLR2026, ICML2026, KDD2026
 
 # 🎓 Educations
 - *2023.09 - now*, Ph.D Candidate, University of New South Wales, Sydney. 
