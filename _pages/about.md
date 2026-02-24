@@ -26,15 +26,13 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2026.2*: &nbsp;🎉🎉 one paper was accepted by ICDE 2026 
 - *2026.1*: &nbsp;🎉🎉 one paper was accepted by ICLR 2026 
 - *2025.11*: &nbsp;🎉🎉 one paper was accepted by TKDE 2025 
 - *2025.8*: &nbsp;🎉🎉 one paper was accepted by CIKM 2025 
 - *2025.4*: &nbsp;🎉🎉 one paper was accepted by IJCAI 2025 
-- *2024.11*: &nbsp;🎉🎉 one paper was accepted by ICDE 2025 
-- *2024.05*: &nbsp;🎉🎉 one paper was accepted by TKDE 2024 
-- *2024.04*: &nbsp;🎉🎉 one paper was accepted by IJCAI 2024
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -54,6 +52,11 @@ I have published more than 100 papers at the top international AI conferences wi
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
+`*: Corresponding author.`
+
+- Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin. *C²TC: A Training-Free Framework for Efficient Tabular Data Condensation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2026 [[code](https://github.com/Sssara-5/TF-TabularCondensation)]
+
+
 - **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **International Conference on Learning Representation (ICLR)**, 2026 [[pdf](https://arxiv.org/abs/2508.12244)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
 
 - **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2025 [[pdf](https://arxiv.org/pdf/2410.06480)] [[code](https://github.com/Coco-Hut/TCGU)]
@@ -67,8 +70,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - **Fan Li**, Zhiyu Xu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *AdaRisk: Risk-adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024 [[pdf](https://ieeexplore.ieee.org/document/10549866/footnotes#footnotes)] [[code](https://github.com/Coco-Hut/AdaRisk-TKDE)]
  
 - **Fan Li**, Xiaoyang Wang<sup>\*</sup>, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *Hypergraph Self-supervised Learning with Sampling-efficient Signals.* **International Joint Conference on Artificial  Intelligence (IJCAI)**, 2024 [[pdf](https://www.ijcai.org/proceedings/2024/486)] [[code](https://github.com/Coco-Hut/SE-HSSL)]
-
-- Jiacheng Ma, **Fan Li**, Dawei Cheng<sup>\*</sup> et al. *Fighting against Organized Fraudsters Using Risk Diffusion-based Parallel Graph Neural Network.* **International Joint Conference on Artificial  Intelligence (IJCAI)**, 2023 [[pdf](https://www.ijcai.org/proceedings/2023/0681.pdf)]
 
 # 📄 Preprints
 
