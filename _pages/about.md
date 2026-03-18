@@ -54,17 +54,19 @@ I have published more than 100 papers at the top international AI conferences wi
 
 `*: Corresponding author.`
 
-- Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin. *C²TC: A Training-Free Framework for Efficient Tabular Data Condensation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2026 [[code](https://github.com/Sssara-5/TF-TabularCondensation)]
+- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Ying Zhang, Wenjie Zhang, and Xuemin Lin. *Fairness-aware Hypergraph Self-Supervised Learning with Sampling-efficient Signals.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026 [[code](https://github.com/Coco-Hut/SE-HSSL)]
 
-- **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **International Conference on Learning Representation (ICLR)**, 2026 [[pdf](https://arxiv.org/abs/2508.12244)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
+- Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin. *C²TC: A Training-Free Framework for Efficient Tabular Data Condensation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2026 [[pdf](https://arxiv.org/pdf/2602.21717)] [[code](https://github.com/Sssara-5/TF-TabularCondensation)]
 
-- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2025 [[pdf](https://arxiv.org/pdf/2410.06480)] [[code](https://github.com/Coco-Hut/TCGU)]
+- **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **International Conference on Learning Representation (ICLR)**, 2026 [[pdf](https://openreview.net/forum?id=lhsb1ChUDF)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
 
-- Xijuan Liu, Yin Chen, **Fan Li**, Xiaoyang Wang, Haiyang Hu and Ying Zhang *Subgraph Similarity Computation via Masked Graph Distance Network.* **International Conference on Information and Knowledge Management (CIKM)**, 2025 [[pdf]()] [[code]()]
+- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2025 [[pdf](https://ieeexplore.ieee.org/document/11271172)] [[code](https://github.com/Coco-Hut/TCGU)]
 
-- **Fan Li**, Guoxuan Wang, Huiyu Chu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *PCAN: A Pandemic-Compatible Attentive Neural Network for Retail Sales Forecasting.* **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025 [[pdf]()] [[code](https://github.com/Coco-Hut/PCAN)]
+- Xijuan Liu, Yin Chen, **Fan Li**, Xiaoyang Wang, Haiyang Hu and Ying Zhang *Subgraph Similarity Computation via Masked Graph Distance Network.* **International Conference on Information and Knowledge Management (CIKM)**, 2025 [[pdf](https://dl.acm.org/doi/10.1145/3746252.3761209)] [[code]()]
 
-- **Fan Li**, Xiaoyang Wang<sup>\*</sup>, Dawei Cheng, Ying Zhang, and Xuemin Lin. *Efficient Dynamic Attributed Graph Generation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2025 [[pdf](https://arxiv.org/abs/2412.08810)] [[code](https://github.com/Coco-Hut/VRDAG)]
+- **Fan Li**, Guoxuan Wang, Huiyu Chu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *PCAN: A Pandemic-Compatible Attentive Neural Network for Retail Sales Forecasting.* **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025 [[pdf](https://www.ijcai.org/proceedings/2025/1026)] [[code](https://github.com/Coco-Hut/PCAN)]
+
+- **Fan Li**, Xiaoyang Wang<sup>\*</sup>, Dawei Cheng, Ying Zhang, and Xuemin Lin. *Efficient Dynamic Attributed Graph Generation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2025 [[pdf](https://ieeexplore.ieee.org/document/11113087)] [[code](https://github.com/Coco-Hut/VRDAG)]
 
 - **Fan Li**, Zhiyu Xu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *AdaRisk: Risk-adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024 [[pdf](https://ieeexplore.ieee.org/document/10549866/footnotes#footnotes)] [[code](https://github.com/Coco-Hut/AdaRisk-TKDE)]
  
