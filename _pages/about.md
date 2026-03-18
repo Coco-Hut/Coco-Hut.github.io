@@ -26,11 +26,11 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2026.3*: &nbsp;🎉🎉 one paper was accepted by TKDE 2026 
 - *2026.2*: &nbsp;🎉🎉 one paper was accepted by ICDE 2026 
 - *2026.1*: &nbsp;🎉🎉 one paper was accepted by ICLR 2026 
 - *2025.11*: &nbsp;🎉🎉 one paper was accepted by TKDE 2025 
 - *2025.8*: &nbsp;🎉🎉 one paper was accepted by CIKM 2025 
-- *2025.4*: &nbsp;🎉🎉 one paper was accepted by IJCAI 2025 
 
 # 📝 Selected Publications 
 
@@ -55,7 +55,6 @@ I have published more than 100 papers at the top international AI conferences wi
 `*: Corresponding author.`
 
 - Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin. *C²TC: A Training-Free Framework for Efficient Tabular Data Condensation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2026 [[code](https://github.com/Sssara-5/TF-TabularCondensation)]
-
 
 - **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **International Conference on Learning Representation (ICLR)**, 2026 [[pdf](https://arxiv.org/abs/2508.12244)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
 
