@@ -26,11 +26,11 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2026.5*: &nbsp;🎉🎉 two papers were accepted by ICML 2026 
 - *2026.3*: &nbsp;🎉🎉 one paper was accepted by TKDE 2026 
 - *2026.2*: &nbsp;🎉🎉 one paper was accepted by ICDE 2026 
 - *2026.1*: &nbsp;🎉🎉 one paper was accepted by ICLR 2026 
 - *2025.11*: &nbsp;🎉🎉 one paper was accepted by TKDE 2025 
-- *2025.8*: &nbsp;🎉🎉 one paper was accepted by CIKM 2025 
 
 # 📝 Selected Publications 
 
@@ -54,7 +54,11 @@ I have published more than 100 papers at the top international AI conferences wi
 
 `*: Corresponding author.`
 
-- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Ying Zhang, Wenjie Zhang, and Xuemin Lin. *Fairness-aware Hypergraph Self-Supervised Learning with Sampling-efficient Signals.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026 [[code](https://github.com/Coco-Hut/SE-HSSL)]
+- **Fan Li**, Xiaoyang Wang, Chen Chen, and Wenjie Zhang. *Anchor-guided Hypergraph Condensation with Dual-level Discrimination.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf]()] [[code]()]
+
+- Zian Zhai, **Fan Li**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
+
+- **Fan Li**, Xiaoyang Wang, Dawei Cheng, Ying Zhang, Wenjie Zhang, and Xuemin Lin. *Fairness-aware Hypergraph Self-Supervised Learning with Sampling-efficient Signals.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026 [[pdf](https://ieeexplore.ieee.org/abstract/document/11454462)] [[code](https://github.com/Coco-Hut/SE-HSSL)]
 
 - Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin. *C²TC: A Training-Free Framework for Efficient Tabular Data Condensation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2026 [[pdf](https://arxiv.org/pdf/2602.21717)] [[code](https://github.com/Sssara-5/TF-TabularCondensation)]
 
@@ -62,7 +66,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 - **Fan Li**, Xiaoyang Wang, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *TCGU: Data-centric Graph Unlearning based on Transferable Condensation.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2025 [[pdf](https://ieeexplore.ieee.org/document/11271172)] [[code](https://github.com/Coco-Hut/TCGU)]
 
+<!-- 
 - Xijuan Liu, Yin Chen, **Fan Li**, Xiaoyang Wang, Haiyang Hu and Ying Zhang *Subgraph Similarity Computation via Masked Graph Distance Network.* **International Conference on Information and Knowledge Management (CIKM)**, 2025 [[pdf](https://dl.acm.org/doi/10.1145/3746252.3761209)] [[code]()]
+-->
 
 - **Fan Li**, Guoxuan Wang, Huiyu Chu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang. *PCAN: A Pandemic-Compatible Attentive Neural Network for Retail Sales Forecasting.* **International Joint Conference on Artificial Intelligence (IJCAI)**, 2025 [[pdf](https://www.ijcai.org/proceedings/2025/1026)] [[code](https://github.com/Coco-Hut/PCAN)]
 
@@ -73,8 +79,6 @@ I have published more than 100 papers at the top international AI conferences wi
 - **Fan Li**, Xiaoyang Wang<sup>\*</sup>, Dawei Cheng, Wenjie Zhang, Ying Zhang, and Xuemin Lin. *Hypergraph Self-supervised Learning with Sampling-efficient Signals.* **International Joint Conference on Artificial  Intelligence (IJCAI)**, 2024 [[pdf](https://www.ijcai.org/proceedings/2024/486)] [[code](https://github.com/Coco-Hut/SE-HSSL)]
 
 # 📄 Preprints
-
-- Zian Zhai, **Fan Li**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
 
 - Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/pdf/2508.03104)] [[code]()]
 
