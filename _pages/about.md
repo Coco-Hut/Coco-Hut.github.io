@@ -56,7 +56,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 - **Fan Li**, Xiaoyang Wang, Chen Chen, and Wenjie Zhang. *Anchor-guided Hypergraph Condensation with Dual-level Discrimination.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf]()] [[code]()]
 
-- Zian Zhai, **Fan Li**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
+- Zian Zhai, **Fan Li<sup>\*</sup>**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
 
 - **Fan Li**, Xiaoyang Wang, Dawei Cheng, Ying Zhang, Wenjie Zhang, and Xuemin Lin. *Fairness-aware Hypergraph Self-Supervised Learning with Sampling-efficient Signals.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026 [[pdf](https://ieeexplore.ieee.org/abstract/document/11454462)] [[code](https://github.com/Coco-Hut/SE-HSSL)]
 
