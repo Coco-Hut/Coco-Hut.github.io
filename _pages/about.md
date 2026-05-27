@@ -54,9 +54,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 `*: Corresponding author.`
 
-- **Fan Li**, Xiaoyang Wang, Chen Chen, and Wenjie Zhang. *Anchor-guided Hypergraph Condensation with Dual-level Discrimination.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf]()] [[code]()]
+- **Fan Li**, Xiaoyang Wang, Chen Chen, and Wenjie Zhang. *Anchor-guided Hypergraph Condensation with Dual-level Discrimination.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/pdf/2605.10001)] [[code](https://github.com/Coco-Hut/AHGCDD)]
 
-- Zian Zhai, **Fan Li<sup>\*</sup>**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/abs/2508.06588)] [[code]()]
+- Zian Zhai, **Fan Li<sup>\*</sup>**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/abs/2508.06588)]
 
 - **Fan Li**, Xiaoyang Wang, Dawei Cheng, Ying Zhang, Wenjie Zhang, and Xuemin Lin. *Fairness-aware Hypergraph Self-Supervised Learning with Sampling-efficient Signals.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026 [[pdf](https://ieeexplore.ieee.org/abstract/document/11454462)] [[code](https://github.com/Coco-Hut/SE-HSSL)]
 
@@ -80,7 +80,9 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📄 Preprints
 
-- Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/pdf/2508.03104)] [[code]()]
+- Mengting Pan, **Fan Li<sup>\*</sup>**, Chen Chen, Xiaoyang Wang. *Universal Graph Backdoor Defense: A Feature-based Homophily Perspective.* **arXiv preprint**, 2026 [[pdf](https://arxiv.org/pdf/2605.16815)] 
+
+- Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/pdf/2508.03104)]
 
 # 🔬 Open Source Projects
 
