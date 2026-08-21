@@ -40,6 +40,25 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+html {
+    background-color: #dfe4ea;
+}
+
+body {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.72);
+
+    &::before {
+        content: "";
+        position: fixed;
+        inset: -20px;
+        z-index: -1;
+        background: url("/images/Background/B1.jpg") center / cover no-repeat;
+        filter: blur(12px);
+        transform: scale(1.04);
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
