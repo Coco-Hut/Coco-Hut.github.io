@@ -34,11 +34,12 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Selected Publications 
 
+*(Full list of publications can be found in [Google Scholar]({{ site.author.googlescholar }}).)*
+
 <div class="publication-filters" role="group" aria-label="Filter selected publications">
-  <button class="publication-filter is-active" type="button" data-filter="all">All</button>
-  <button class="publication-filter" type="button" data-filter="hypergraph">Hypergraph Learning</button>
+  <button class="publication-filter is-active" type="button" data-filter="hypergraph">Hypergraph Learning</button>
   <button class="publication-filter" type="button" data-filter="graph-mining">Graph Mining</button>
-  <button class="publication-filter" type="button" data-filter="others">Others</button>
+  <button class="publication-filter" type="button" data-filter="tabular">Tabular Learning</button>
 </div>
 
 <div id="selected-publications">
@@ -123,7 +124,7 @@ Zian Zhai, **Fan Li<sup>\*</sup>**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang
   </div>
 </div>
 
-<div class='paper-box' data-category="others">
+<div class='paper-box' data-category="tabular">
   <div class='paper-box-image'><div><div class="badge">ICDE 2026</div><img src='/images/paper%20icon/ICDE26-C2TC.png' alt="Overview of C²TC: A Training-Free Framework for Efficient Tabular Data Condensation"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -171,21 +172,6 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
 <!-- 
 - Xijuan Liu, Yin Chen, **Fan Li**, Xiaoyang Wang, Haiyang Hu and Ying Zhang *Subgraph Similarity Computation via Masked Graph Distance Network.* **International Conference on Information and Knowledge Management (CIKM)**, 2025 [[pdf](https://dl.acm.org/doi/10.1145/3746252.3761209)] [[code]()]
 -->
-
-<div class='paper-box' data-category="others">
-  <div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='/images/paper%20icon/IJCAI25-PCAN.png' alt="Overview of PCAN"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-[PCAN: A Pandemic-Compatible Attentive Neural Network for Retail Sales Forecasting](https://www.ijcai.org/proceedings/2025/1026)
-
-**Fan Li**, Guoxuan Wang, Huiyu Chu, Dawei Cheng<sup>\*</sup>, and Xiaoyang Wang
-
-**International Joint Conference on Artificial Intelligence (IJCAI)**, 2025
-
-[[PDF](https://www.ijcai.org/proceedings/2025/1026)] [[Code](https://github.com/Coco-Hut/PCAN)]
-
-  </div>
-</div>
 
 <div class='paper-box' data-category="graph-mining">
   <div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='/images/paper%20icon/ICDE25-VRDAG.png' alt="Overview of Efficient Dynamic Attributed Graph Generation"></div></div>
@@ -239,15 +225,20 @@ document.addEventListener('DOMContentLoaded', function () {
   const buttons = document.querySelectorAll('.publication-filter');
   const papers = document.querySelectorAll('#selected-publications .paper-box');
 
+  function filterPapers(category, activeButton) {
+    buttons.forEach(function (item) { item.classList.toggle('is-active', item === activeButton); });
+    papers.forEach(function (paper) {
+      paper.hidden = paper.dataset.category !== category;
+    });
+  }
+
   buttons.forEach(function (button) {
     button.addEventListener('click', function () {
-      const category = button.dataset.filter;
-      buttons.forEach(function (item) { item.classList.toggle('is-active', item === button); });
-      papers.forEach(function (paper) {
-        paper.hidden = category !== 'all' && paper.dataset.category !== category;
-      });
+      filterPapers(button.dataset.filter, button);
     });
   });
+
+  filterPapers('hypergraph', document.querySelector('.publication-filter.is-active'));
 });
 </script>
 
