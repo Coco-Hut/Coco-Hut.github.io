@@ -41,7 +41,7 @@
 @import "print";
 
 html {
-    background-color: #dfe4ea;
+    background: #dfe4ea url("/images/Background/B1.jpg") center / cover fixed no-repeat;
 }
 
 body {
@@ -87,7 +87,18 @@ body {
     margin: 1.35em 0 0.5em;
 }
 
+.publication-filter-input {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+}
+
 .publication-filter {
+    display: inline-flex;
+    align-items: center;
     padding: 0.55em 1em;
     color: #315b8a;
     background: rgba(255, 255, 255, 0.62);
@@ -101,8 +112,7 @@ body {
     letter-spacing: 0.01em;
     transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease, color 0.2s ease;
 
-    &:hover,
-    &.is-active {
+    &:hover {
         color: #fff;
         background: linear-gradient(135deg, #356fa8, #214d80);
         border-color: transparent;
@@ -113,13 +123,27 @@ body {
         transform: translateY(-2px);
     }
 
-    &:focus-visible {
-        outline: 3px solid rgba(53, 111, 168, 0.35);
-        outline-offset: 2px;
-    }
 }
 
-.paper-box[hidden] {
+#filter-hypergraph:checked ~ .publication-filters label[for="filter-hypergraph"],
+#filter-graph-mining:checked ~ .publication-filters label[for="filter-graph-mining"],
+#filter-tabular:checked ~ .publication-filters label[for="filter-tabular"] {
+    color: #fff;
+    background: linear-gradient(135deg, #356fa8, #214d80);
+    border-color: transparent;
+    box-shadow: 0 5px 12px rgba(33, 77, 128, 0.28);
+}
+
+#filter-hypergraph:focus-visible ~ .publication-filters label[for="filter-hypergraph"],
+#filter-graph-mining:focus-visible ~ .publication-filters label[for="filter-graph-mining"],
+#filter-tabular:focus-visible ~ .publication-filters label[for="filter-tabular"] {
+    outline: 3px solid rgba(53, 111, 168, 0.35);
+    outline-offset: 2px;
+}
+
+#filter-hypergraph:checked ~ #selected-publications .paper-box:not([data-category="hypergraph"]),
+#filter-graph-mining:checked ~ #selected-publications .paper-box:not([data-category="graph-mining"]),
+#filter-tabular:checked ~ #selected-publications .paper-box:not([data-category="tabular"]) {
     display: none !important;
 }
 

@@ -38,10 +38,15 @@ I have published more than 100 papers at the top international AI conferences wi
 
 <p class="corresponding-note"><sup>*</sup> Corresponding author.</p>
 
+<div class="publication-filter-panel">
+<input class="publication-filter-input" type="radio" name="publication-filter" id="filter-hypergraph" checked>
+<input class="publication-filter-input" type="radio" name="publication-filter" id="filter-graph-mining">
+<input class="publication-filter-input" type="radio" name="publication-filter" id="filter-tabular">
+
 <div class="publication-filters" role="group" aria-label="Filter selected publications">
-  <button class="publication-filter is-active" type="button" data-filter="hypergraph">Hypergraph Learning</button>
-  <button class="publication-filter" type="button" data-filter="graph-mining">Graph Mining</button>
-  <button class="publication-filter" type="button" data-filter="tabular">Tabular Learning</button>
+  <label class="publication-filter" for="filter-hypergraph">Hypergraph Learning</label>
+  <label class="publication-filter" for="filter-graph-mining">Graph Mining</label>
+  <label class="publication-filter" for="filter-tabular">Tabular Learning</label>
 </div>
 
 <div id="selected-publications">
@@ -216,6 +221,8 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
 [[PDF](https://www.ijcai.org/proceedings/2024/486)] [[Code](https://github.com/Coco-Hut/SE-HSSL)]
 
   </div>
+</div>
+
 </div>
 
 </div>
