@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D candidate in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales (UNSW). I am now under the joint supervision of Dr. [Xiaoyang Wang](https://research.unsw.edu.au/people/dr-xiaoyang-wang) and Prof. [Xuemin Lin](https://itf.sjtu.edu.cn/enshow-275-42.html). My research interest includes Graph Mining, Hypergraph Learning, and Data-centric AI. 
+I am currently a third-year Ph.D candidate in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales (UNSW). I am now under the joint supervision of Dr. [Xiaoyang Wang](https://research.unsw.edu.au/people/dr-xiaoyang-wang) and Prof. [Xuemin Lin](https://itf.sjtu.edu.cn/enshow-275-42.html). My research interest includes Graph Mining, Hypergraph Learning, and Data-centric AI. 
 
 Prior to that, I obtained my bachelor degree in Data Science and Big Data Technology from Tongji University, China, in 2023. I was a research intern at Fintech Lab in Tongji University, supervised by Prof. [Dawei Cheng](http://cs1.tongji.edu.cn/~dawei/).
 
@@ -26,11 +26,11 @@ I have published more than 100 papers at the top international AI conferences wi
 -->
 
 # 🔥 News
+- *2026.8*: &nbsp;🎉🎉 one paper was accepted by EMNLP 2026
 - *2026.5*: &nbsp;🎉🎉 two papers were accepted by ICML 2026 
 - *2026.3*: &nbsp;🎉🎉 one paper was accepted by TKDE 2026 
 - *2026.2*: &nbsp;🎉🎉 one paper was accepted by ICDE 2026 
 - *2026.1*: &nbsp;🎉🎉 one paper was accepted by ICLR 2026 
-- *2025.11*: &nbsp;🎉🎉 one paper was accepted by TKDE 2025 
 
 # 📝 Selected Publications 
 
@@ -54,13 +54,41 @@ I have published more than 100 papers at the top international AI conferences wi
 
 `*: Corresponding author.`
 
-- **Fan Li**, Xiaoyang Wang, Chen Chen, and Wenjie Zhang. *Anchor-guided Hypergraph Condensation with Dual-level Discrimination.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/pdf/2605.10001)] [[code](https://github.com/Coco-Hut/AHGCDD)]
+- Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **Conference on Empirical Methods in Natural Language Processing (EMNLP)**, 2026 [[pdf](https://arxiv.org/pdf/2508.03104)]
+
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/paper%20icon/ICML26-AHCGDD.png' alt="Overview of Anchor-guided Hypergraph Condensation with Dual-level Discrimination"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+[Anchor-guided Hypergraph Condensation with Dual-level Discrimination](https://arxiv.org/pdf/2605.10001)
+
+**Fan Li**, Xiaoyang Wang, Chen Chen, and Wenjie Zhang
+
+**International Conference on Machine Learning (ICML)**, 2026
+
+[[PDF](https://arxiv.org/pdf/2605.10001)] [[Code](https://github.com/Coco-Hut/AHGCDD)]
+
+  </div>
+</div>
 
 - Zian Zhai, **Fan Li<sup>\*</sup>**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang. *Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning.* **International Conference on Machine Learning (ICML)**, 2026 [[pdf](https://arxiv.org/abs/2508.06588)]
 
 - **Fan Li**, Xiaoyang Wang, Dawei Cheng, Ying Zhang, Wenjie Zhang, and Xuemin Lin. *Fairness-aware Hypergraph Self-Supervised Learning with Sampling-efficient Signals.* **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026 [[pdf](https://ieeexplore.ieee.org/abstract/document/11454462)] [[code](https://github.com/Coco-Hut/SE-HSSL)]
 
-- Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin. *C²TC: A Training-Free Framework for Efficient Tabular Data Condensation.* **IEEE Interational Conference on Data Engineering (ICDE)**, 2026 [[pdf](https://arxiv.org/pdf/2602.21717)] [[code](https://github.com/Sssara-5/TF-TabularCondensation)]
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">ICDE 2026</div><img src='/images/paper%20icon/ICDE26-C2TC.png' alt="Overview of C²TC: A Training-Free Framework for Efficient Tabular Data Condensation"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+[C²TC: A Training-Free Framework for Efficient Tabular Data Condensation](https://arxiv.org/pdf/2602.21717)
+
+Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
+
+**IEEE International Conference on Data Engineering (ICDE)**, 2026
+
+[[PDF](https://arxiv.org/pdf/2602.21717)] [[Code](https://github.com/Sssara-5/TF-TabularCondensation)]
+
+  </div>
+</div>
 
 - **Fan Li**, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. *DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning.* **International Conference on Learning Representation (ICLR)**, 2026 [[pdf](https://openreview.net/forum?id=lhsb1ChUDF)] [[code](https://github.com/Coco-Hut/DHG-Bench)]
 
@@ -81,8 +109,6 @@ I have published more than 100 papers at the top international AI conferences wi
 # 📄 Preprints
 
 - Mengting Pan, **Fan Li<sup>\*</sup>**, Chen Chen, Xiaoyang Wang. *Universal Graph Backdoor Defense: A Feature-based Homophily Perspective.* **arXiv preprint**, 2026 [[pdf](https://arxiv.org/pdf/2605.16815)] 
-
-- Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin Lin. *HiTeC: Hierarchical Contrastive Learning on Text-Attributed Hypergraph with Semantic-Aware Augmentation.* **arXiv preprint**, 2025 [[pdf](https://arxiv.org/pdf/2508.03104)]
 
 # 🔬 Open Source Projects
 
