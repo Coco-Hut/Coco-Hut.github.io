@@ -36,6 +36,8 @@ I have published more than 100 papers at the top international AI conferences wi
 
 *(Full list of publications can be found in [Google Scholar]({{ site.author.googlescholar }}).)*
 
+<p class="corresponding-note"><sup>*</sup> Corresponding author.</p>
+
 <div class="publication-filters" role="group" aria-label="Filter selected publications">
   <button class="publication-filter is-active" type="button" data-filter="hypergraph">Hypergraph Learning</button>
   <button class="publication-filter" type="button" data-filter="graph-mining">Graph Mining</button>
@@ -61,8 +63,6 @@ I have published more than 100 papers at the top international AI conferences wi
 <!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
-
-`*: Corresponding author.`
 
 <div class='paper-box' data-category="hypergraph">
   <div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='/images/paper%20icon/EMNLP26-HiTec.png' alt="Overview of HiTeC"></div></div>
@@ -219,28 +219,6 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
 </div>
 
 </div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const buttons = document.querySelectorAll('.publication-filter');
-  const papers = document.querySelectorAll('#selected-publications .paper-box');
-
-  function filterPapers(category, activeButton) {
-    buttons.forEach(function (item) { item.classList.toggle('is-active', item === activeButton); });
-    papers.forEach(function (paper) {
-      paper.hidden = paper.dataset.category !== category;
-    });
-  }
-
-  buttons.forEach(function (button) {
-    button.addEventListener('click', function () {
-      filterPapers(button.dataset.filter, button);
-    });
-  });
-
-  filterPapers('hypergraph', document.querySelector('.publication-filter.is-active'));
-});
-</script>
 
 # 📄 Preprints
 
