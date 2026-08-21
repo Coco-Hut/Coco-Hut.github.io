@@ -41,11 +41,12 @@
 @import "print";
 
 html {
-    background: #dfe4ea url("/images/Background/B1.jpg") center / cover fixed no-repeat;
+    background-color: #dfe4ea;
 }
 
 body {
-    background-color: transparent;
+    min-height: 100vh;
+    background: #dfe4ea url("/images/Background/B1.jpg") center / cover fixed no-repeat;
 }
 
 .page__inner-wrap,
