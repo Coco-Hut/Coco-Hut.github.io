@@ -41,21 +41,30 @@
 @import "print";
 
 html {
-    background-color: #dfe4ea;
+    background: #dfe4ea url("/images/Background/B1.jpg") center / cover fixed no-repeat;
 }
 
 body {
-    position: relative;
-    background-color: rgba(255, 255, 255, 0.72);
+    background-color: transparent;
+}
 
-    &::before {
-        content: "";
-        position: fixed;
-        inset: -20px;
-        z-index: -1;
-        background: url("/images/Background/B1.jpg") center / cover no-repeat;
-        filter: blur(5px);
-        transform: scale(1.04);
+.page__inner-wrap,
+.sidebar {
+    background-color: rgba(255, 255, 255, 0.88);
+    border-radius: 12px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+}
+
+.page__inner-wrap {
+    padding: 0 1.25em 1.25em;
+}
+
+.sidebar {
+    padding: 1em;
+    box-sizing: border-box;
+
+    @include breakpoint($large) {
+        padding: 1em;
     }
 }
 
