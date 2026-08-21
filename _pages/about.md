@@ -34,6 +34,15 @@ I have published more than 100 papers at the top international AI conferences wi
 
 # 📝 Selected Publications 
 
+<div class="publication-filters" role="group" aria-label="Filter selected publications">
+  <button class="publication-filter is-active" type="button" data-filter="all">All</button>
+  <button class="publication-filter" type="button" data-filter="hypergraph">Hypergraph Learning</button>
+  <button class="publication-filter" type="button" data-filter="graph-mining">Graph Mining</button>
+  <button class="publication-filter" type="button" data-filter="others">Others</button>
+</div>
+
+<div id="selected-publications">
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +63,7 @@ I have published more than 100 papers at the top international AI conferences wi
 
 `*: Corresponding author.`
 
-<div class='paper-box'>
+<div class='paper-box' data-category="hypergraph">
   <div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='/images/paper%20icon/EMNLP26-HiTec.png' alt="Overview of HiTeC"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -69,7 +78,7 @@ Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin L
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="hypergraph">
   <div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/paper%20icon/ICML26-AHCGDD.png' alt="Overview of Anchor-guided Hypergraph Condensation with Dual-level Discrimination"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -84,7 +93,7 @@ Mengting Pan, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Wenjie Zhang, and Xuemin L
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="graph-mining">
   <div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/paper%20icon/ICML26-RGVQ.png' alt="Overview of Graph is a Natural Regularization"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -99,7 +108,7 @@ Zian Zhai, **Fan Li<sup>\*</sup>**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="hypergraph">
   <div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='/images/paper%20icon/TKDE26-FairHSSL.png' alt="Overview of Fairness-aware Hypergraph Self-Supervised Learning"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -114,7 +123,7 @@ Zian Zhai, **Fan Li<sup>\*</sup>**, Xingyu Tan, Xiaoyang Wang, Wenjie Zhang
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="others">
   <div class='paper-box-image'><div><div class="badge">ICDE 2026</div><img src='/images/paper%20icon/ICDE26-C2TC.png' alt="Overview of C²TC: A Training-Free Framework for Efficient Tabular Data Condensation"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -129,7 +138,7 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="hypergraph">
   <div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='/images/paper%20icon/ICLR26-DHGBench.png' alt="Overview of DHG-Bench"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -144,7 +153,7 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="graph-mining">
   <div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='/images/paper%20icon/TKDE25-TCGU.png' alt="Overview of TCGU"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -163,7 +172,7 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
 - Xijuan Liu, Yin Chen, **Fan Li**, Xiaoyang Wang, Haiyang Hu and Ying Zhang *Subgraph Similarity Computation via Masked Graph Distance Network.* **International Conference on Information and Knowledge Management (CIKM)**, 2025 [[pdf](https://dl.acm.org/doi/10.1145/3746252.3761209)] [[code]()]
 -->
 
-<div class='paper-box'>
+<div class='paper-box' data-category="others">
   <div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='/images/paper%20icon/IJCAI25-PCAN.png' alt="Overview of PCAN"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -178,7 +187,7 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="graph-mining">
   <div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='/images/paper%20icon/ICDE25-VRDAG.png' alt="Overview of Efficient Dynamic Attributed Graph Generation"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -193,7 +202,7 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box' data-category="graph-mining">
   <div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='/images/paper%20icon/TKDE26-AdaRisk.png' alt="Overview of AdaRisk"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -208,7 +217,7 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
   </div>
 </div>
  
-<div class='paper-box'>
+<div class='paper-box' data-category="hypergraph">
   <div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='/images/paper%20icon/IJCAI24-SEHSSL.png' alt="Overview of Hypergraph Self-supervised Learning"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -222,6 +231,25 @@ Sijia Xu, **Fan Li<sup>\*</sup>**, Xiaoyang Wang, Zhengyi Yang, Xuemin Lin
 
   </div>
 </div>
+
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const buttons = document.querySelectorAll('.publication-filter');
+  const papers = document.querySelectorAll('#selected-publications .paper-box');
+
+  buttons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      const category = button.dataset.filter;
+      buttons.forEach(function (item) { item.classList.toggle('is-active', item === button); });
+      papers.forEach(function (paper) {
+        paper.hidden = category !== 'all' && paper.dataset.category !== category;
+      });
+    });
+  });
+});
+</script>
 
 # 📄 Preprints
 
