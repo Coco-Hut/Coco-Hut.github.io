@@ -266,7 +266,7 @@ Mengting Pan, **Fan Li<sup>\*</sup>**, Chen Chen, Xiaoyang Wang
   *Role: Project Leader and Main Contributor*
 
 # 🎖 Honors and Awards
-- Chinese Government Award for Outstanding Self-financed Students Abroad 2026 (Only 650 worldwide)
+- Chinese Government Award for Outstanding Overseas Study Elite  (Only 40 recipients in Australia)
 - ICML 2026 Silver Reviewer Award
 - IEEE ICDE 2025 Student Travel Grant (Only 10 recipients worldwide)
 - University International Postgraduate Award (UIPA) granted by University of New South Wales - 2024
