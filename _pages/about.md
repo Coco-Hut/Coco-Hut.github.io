@@ -287,6 +287,8 @@ Mengting Pan, **Fan Li<sup>\*</sup>**, Chen Chen, Xiaoyang Wang
 
 - ACM Transactions on Knowledge Discovery from Data (TKDD).
 
+- Knowledge-Based Systems
+
 # 🎓 Educations
 - *2023.09 - now*, Ph.D Candidate, University of New South Wales, Sydney. 
 - *2019.09 - 2023.06*, Undergraduate, Tongji University, Shanghai.
